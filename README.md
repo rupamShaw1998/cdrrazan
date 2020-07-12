@@ -1,8 +1,9 @@
-# Hello, nerds and fellow devs!
+<h1 align="center">⚡️ Hi, I'm Rajan Bhattarai ⚡️</h1>
+<h4 align="center"><a href="https://blog.cdrrazan.com">Blog</a> &bull; <a href="https://rajan.link/twitter">Twitter</a> &bull; </a> <a href="https://rajan.link/linkedin">LinkedIn</a>  &bull; <a href="https://rajan.link/dev">DEV </a></h4>
 
+<p align="center">🔭 I am full stack software engineer prrimarily interested in web Development and DevOps!</p>
 
-🔭 I am full stack software engineer prrimarily interested in web Development and DevOps!
-
+---
 > Blogs about **blog | code | linux | tech** in the **[optonX blog | cdrrazan ](https://blog.cdrrazan.com)**
 
 > Tweets about tech, blog, brands and sometimes little personal on **[ Twitter | @cdrrazan ](https://rajan.link/twitter)**
