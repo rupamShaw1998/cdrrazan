@@ -1,5 +1,5 @@
 <h1 align="center">⚡️ Hi, I'm Rajan Bhattarai ⚡️</h1>
-<h4 align="center"><a href="https://blog.cdrrazan.com">Blog</a> &bull; <a href="https://rajan.link/twitter">Twitter</a> &bull; </a> <a href="https://rajan.link/linkedin">LinkedIn</a>  &bull; <a href="https://rajan.link/dev">DEV </a></h4>
+<h4 align="center"><a href="https://blog.cdrrazan.com"><img src="https://img.shields.io/badge/blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white"/></a> &bull; <a href="https://rajan.link/twitter"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/> </a> &bull; <a href="https://rajan.link/linkedin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>  &bull; <a href="https://rajan.link/dev"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/> </a></h4>
 
 <p align="center">🔭 I am full stack software engineer prrimarily interested in web Development and DevOps!</p>
 
