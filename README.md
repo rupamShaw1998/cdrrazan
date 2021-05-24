@@ -14,3 +14,6 @@
 📫 Subscribe to my biweekly [Devis | Newsletter for Dev!](https://getco.us/dev)
 
 ✉️ Reach me in **[my twitter](https://rajan.link/twitter)** or **[mail me here](mailto:hey@rajanbhattarai.com)**.
+
+---
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cdrrazan&show_icons=true&theme=gotham&count_private=true&include_all_commits=true alt="cdrrazan | Rajan Bhattarai" /> </p>
