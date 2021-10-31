@@ -5,11 +5,11 @@
 
 ---
 
-> 📝  Blogs about **blog | code | linux | tech** in the **[optonX blog | cdrrazan ](https://cdrrazan.com)**
+> 📝  Blogs about **blog | code | linux | tech** in the **[optonX blog | cdrrazan. ](https://cdrrazan.com)**
 
-> 🐦 Tweets about tech, blog, brands and sometimes little personal on **[ Twitter | @cdrrazan ](https://rajan.link/twitter)**
+> 🐦 Tweets about tech, blog, brands and sometimes little personal on **[ Twitter | @cdrrazan. ](https://rajan.link/twitter)**
 
-> 📷 Clicks random sky photos and posts in the **[https://photoinx.art](https://photoinx.art)**
+> 📷 Clicks random sky photos and posts in the **[photoinx.art](https://photoinx.art)**
 
 
 📫 Subscribe to my biweekly [Devis | Newsletter for Dev!](https://getdevis.com)
